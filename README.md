@@ -1,2 +1,3 @@
 # hi-world
-Just for testing
+Just for testing.
+The software does nothing. 
